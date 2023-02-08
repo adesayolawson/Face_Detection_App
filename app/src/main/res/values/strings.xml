@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Face Detection Test</string>
+    <string name="overlay_help">Position your face in the frame</string>
+</resources>
